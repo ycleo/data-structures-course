@@ -175,10 +175,10 @@ def cookies(k, A):
 # alternative 0 ----> heap 
 from collections import deque
 from heapq import heapify, heappop, heappush
-infi = math.inf
+
 def MergeKSortedSequences(s):
     ans = []
-    theap = [(infi, -1)]   #heap list with tuples
+    theap = []   #heap list with tuples
     
     k = len(s)
     n = len(s[0])
@@ -190,11 +190,8 @@ def MergeKSortedSequences(s):
     heapify(theap)  #O(k)
     #create a min heap
 
-    while True:
+    while theap:
         val, subl = heappop(theap) #O(lgk)
-        if val == infi:
-            break
-            
         ans.append( -val )
         if s[subl]:
             heappush(theap, (-s[subl].popleft(), subl)) #O(lgk)
