@@ -16,7 +16,8 @@ Try implement data structures knowledge on creating efficient algorithms!
 - [reference sol](https://github.com/jamie-jjd/2021_spring_introduction_to_data_structure) 
 - [assignment 1](https://www.hackerrank.com/ds21-assignment-1)  
 - 1st mid [part1](https://www.hackerrank.com/contests/ds21-exam-1/challenges) [part2](https://www.hackerrank.com/contests/ds21-exam-1-home/challenges)  
-- [assignment 2](https://www.hackerrank.com/contests/ds21-assignment-2/challenges)
+- [assignment 2](https://www.hackerrank.com/contests/ds21-assignment-2/challenges)  
+- 2nd mid [part1](https://www.hackerrank.com/ds21-exam-2) [part2](https://www.hackerrank.com/ds21-exam-2-home)  
 
 
 
