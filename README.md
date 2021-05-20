@@ -3,7 +3,7 @@ Content:
 1. Growth of Function 
 2. Heap, Sorting  
 3. List, Queue, Stack 
-4. Graph  
+4. Graph --> [Good note](https://hackernoon.com/shortest-and-longest-path-algorithms-job-interview-cheatsheet-2adc8e18869)   
 5. Tree 
 6. BFS, DFS 
 7. Topological Sort 
