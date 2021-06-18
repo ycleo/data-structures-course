@@ -18,6 +18,8 @@ Try implement data structures knowledge on creating efficient algorithms!
 - 1st mid [part1](https://www.hackerrank.com/contests/ds21-exam-1/challenges) [part2](https://www.hackerrank.com/contests/ds21-exam-1-home/challenges)  
 - [assignment 2](https://www.hackerrank.com/contests/ds21-assignment-2/challenges)  
 - 2nd mid [part1](https://www.hackerrank.com/ds21-exam-2) [part2](https://www.hackerrank.com/ds21-exam-2-home)  
+- [assignment 3](https://www.hackerrank.com/contests/ds21-assignment-3/challenges)  
+- final [part1]() [part2]() 
 
 
 
