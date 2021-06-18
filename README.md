@@ -11,8 +11,8 @@ Content:
 9. AVL, B Tree  
 10. Hashing 
 
-This course provide a great amount of problems.  
-Try implement data structures knowledge on creating efficient algorithms!  
+This course provides many challenging problems.  
+Try to apply the data structures knowledge and implement efficient algorithms!  
 - [reference sol](https://github.com/jamie-jjd/2021_spring_introduction_to_data_structure) 
 - [assignment 1](https://www.hackerrank.com/ds21-assignment-1)  
 - 1st mid [part1](https://www.hackerrank.com/contests/ds21-exam-1/challenges) [part2](https://www.hackerrank.com/contests/ds21-exam-1-home/challenges)  
