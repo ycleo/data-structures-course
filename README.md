@@ -8,7 +8,7 @@ Content:
 6. BFS, DFS 
 7. Topological Sort 
 8. Binary Search Tree 
-9. AVL, B Tree  
+9. AVL Tree & B Tree  
 10. Hashing 
 
 This course provides many challenging problems.  
